@@ -7,7 +7,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <a href="amarildojunior.911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-### Technologies Currently Used
+### Technologies Currently Used💻
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" / >
@@ -19,7 +19,7 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarildoSantos1&hide_progress=true&theme=dark)
-### Technologies Already Seen
+### Technologies Already Seen🖥️
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" / >
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" / >
@@ -31,7 +31,7 @@
 </div>
 
 
-### About Me:
+### About Me:👨‍💻
 
 Information Systems Student<br/>
 20 years<br/>
