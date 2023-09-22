@@ -5,6 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarildo-santos-917996240/) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<a href="amarildojunior.911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Tecnologias Usadas atualmente
 
@@ -28,3 +29,12 @@
  <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" / >
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" / >
 </div>
+
+
+### About Me:
+
+Information Systems Student<br/>
+20 years<br/>
+Passionate about Technology<br/>
+Curious about Innovations<br/>
+Student at Unifacisa Institution<br/>
