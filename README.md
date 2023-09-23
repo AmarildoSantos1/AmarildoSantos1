@@ -4,7 +4,6 @@
 ![AmarildoSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarildoSantos1&show_icons=true&theme=dark)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarildo-santos-917996240/) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <a href="amarildojunior.911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Technologies Currently Used💻
@@ -32,7 +31,7 @@
 
 
 ### About Me:👨‍💻
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br/>
 Information Systems Student<br/>
 20 years<br/>
 Passionate about Technology<br/>
